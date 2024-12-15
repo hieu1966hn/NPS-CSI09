@@ -138,7 +138,6 @@ class Person:
     
     def getName(self):
         return self.__name
-        
 Hung = Person("Hung", 17)
 print(Hung.age) ## 17
 
