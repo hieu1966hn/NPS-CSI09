@@ -18,7 +18,6 @@ def find_number(number_list, number):
     else:
         print('{} not found'.format(number))
         
-    
 
 print(find_number(number_list, 30))
     
