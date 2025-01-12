@@ -56,7 +56,6 @@ Trường hợp đặc biệt: Vòng lặp kết thúc sau khi khoảng tìm ki�
 VD: Bài toán tính giai thừa: n! = 1*2*3*...*n
 
 
-
 Đề bài thực hành:
 **Yêu cầu 1: Thành phố biển**: Cho danh sách các thành phố biển ở Việt Nam, kiểm tra "Quy Nhơn" có nằm trong danh sách không. Nếu có, trả về vị trí tìm thấy.
 sea_cities = ['Hải Phòng', 'Đà Nẵng', 'Quy Nhơn', 'Tuy Hòa', 'Nha Trang', 'Phan Rang', 'Vũng Tàu']
@@ -64,3 +63,4 @@ sea_cities = ['Hải Phòng', 'Đà Nẵng', 'Quy Nhơn', 'Tuy Hòa', 'Nha Trang
 
 **Yêu cầu 2: Điểm thi**: Ban tổ chức của một cuộc thi công bố kết quả theo thứ tự điểm từ thấp đến cao. Hãy tìm tên của thí sinh đạt được đúng 20 điểm.
 contest_result = [('Nam', 10), ('Hải', 13), ('Hoa', 13), ('Tuấn', 20), ('Trung', 20), ('Khải', 23), ('Ly', 30)]
+
