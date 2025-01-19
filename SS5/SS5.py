@@ -34,5 +34,3 @@ def find_score_recursively(results, target_score, index=0):
     return find_score_recursively(results, target_score, index + 1)
 
 print(find_score_recursively(contest_result, 20))
-    
-    
